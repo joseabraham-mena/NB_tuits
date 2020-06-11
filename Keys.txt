@@ -1,0 +1,11 @@
+Access token
+1258532548134797313-w24ae6Fc7uIHO0jXk40akPLrFfUvMW
+
+Access token secret
+L8PwULD3RHMYHnxc7cJlvZSYtXTQORc0ElEFIfL1S7V21
+
+User Key
+YuJdN38YPbdwFJpAUooTHhGbh
+
+User Secret Key
+IOzsqk0Vly9Y90xhXqXQqQ1tsyLS11zgVTjGnpdMTkYJzKH2Dl
